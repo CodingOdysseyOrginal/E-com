@@ -27,7 +27,7 @@ const Header = () => {
     >
       <div className="container mx-auto flex items-center justify-between h-full">
         {/*Logo*/}
-        <Link to={"/"}>
+        <Link to={"/E-"}>
           <div>
             <img className="w-[40px]" src={Logo} alt="" />
           </div>
